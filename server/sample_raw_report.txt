@@ -1,0 +1,8 @@
+MEDICAL REPORT - DR. VERMA
+Date: March 25th 2026
+Notes: 
+We had a sudden spike this morning. A student from Block 3 came in with a severe rash and a mild fever. Looks like it could just be an allergic reaction but we are taking precautions.
+Patient ID: ST2026112
+Name: Sneha Patel
+Room: 102C (Block 3)
+Action taken: Prescribed antihistamines and told her to stay in room 102C for observation for the next 24 hours. No official outbreak, just a single allergy case, tell students not to panic about measles or chicken pox rumors.

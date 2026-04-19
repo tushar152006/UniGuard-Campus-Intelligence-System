@@ -1,0 +1,122 @@
+[
+  {
+    "date": "2026-03-26",
+    "block": "Block 4",
+    "floor": "5",
+    "room": "501A",
+    "student_id": "ST2026156",
+    "student_name": "Kevin D'Souza",
+    "condition": "Shortness of breath, wheezing. History of Asthma. Triggered by high pollen count today.",
+    "temperature": "N/A",
+    "action": "Salbutamol Inhaler",
+    "contact": "9876543217"
+  },
+  {
+    "date": "2026-03-26",
+    "block": "Block 3",
+    "floor": "3",
+    "room": "303B",
+    "student_id": "ST2026098",
+    "student_name": "Ananya Reddy",
+    "condition": "Redness in eyes, itching, discharge. Viral Conjunctivitis. Advised to stay in room to prevent spread.",
+    "temperature": "N/A",
+    "action": "Antibiotic eye drops",
+    "contact": "9876543216"
+  },
+  {
+    "date": "2026-03-26",
+    "block": "Block 1",
+    "floor": "2",
+    "room": "208C",
+    "student_id": "ST2026330",
+    "student_name": "Vikram Singh",
+    "condition": "High fever (102°F), body ache. Viral fever suspected. Blood test ordered if fever persists.",
+    "temperature": "102°F",
+    "action": "Paracetamol (650mg), Vitamin C",
+    "contact": "9876543215"
+  },
+  {
+    "date": "2026-03-26",
+    "block": "Block 2",
+    "floor": "1",
+    "room": "112A",
+    "student_id": "ST2026045",
+    "student_name": "Meera Iyer",
+    "condition": "Dry cough, sore throat, no fever. Possible dust allergy. Advised salt water gargles.",
+    "temperature": "N/A",
+    "action": "Cough syrup, Lozenges",
+    "contact": "9876543214"
+  },
+  {
+    "date": "2026-03-26",
+    "block": "Block 4",
+    "floor": "4",
+    "room": "405D",
+    "student_id": "ST2026201",
+    "student_name": "Arjun Das",
+    "condition": "Ankle swelling, acute pain. Sprained ankle during basketball practice. Advised RICE protocol.",
+    "temperature": "N/A",
+    "action": "Diclofenac gel, Cold compress",
+    "contact": "9876543213"
+  },
+  {
+    "date": "2026-03-25",
+    "block": "Block 2",
+    "floor": "2",
+    "room": "201B",
+    "student_id": "ST2026002",
+    "student_name": "Aisha Khan",
+    "condition": "Headache, fatigue. Stress-related, advised rest.",
+    "temperature": "N/A",
+    "action": "Ibuprofen",
+    "contact": "9876543212"
+  },
+  {
+    "date": "2026-03-25",
+    "block": "Block 1",
+    "floor": "3",
+    "room": "304A",
+    "student_id": "ST2026115",
+    "student_name": "Rohan Sharma",
+    "condition": "Stomach ache, nausea, diarrhea. Suspected food poisoning from mess food. Check mess hygiene.",
+    "temperature": "N/A",
+    "action": "ORS, Domperidone",
+    "contact": "9876543211"
+  },
+  {
+    "date": "2026-03-25",
+    "block": "Block 3",
+    "floor": "1",
+    "room": "102C",
+    "student_id": "ST2026112",
+    "student_name": "Sneha Patel",
+    "condition": "Severe rash, mild fever. Observation for 24 hrs. Not measles.",
+    "temperature": "N/A",
+    "action": "Antihistamines, Paracetamol",
+    "contact": "9876543210"
+  },
+  {
+    "date": "2026-03-24",
+    "block": "Block 1",
+    "floor": "2",
+    "room": "204B",
+    "student_id": "ST2026001",
+    "student_name": "Aman Shrivastava",
+    "condition": "Acute Viral Fever",
+    "temperature": "103°F",
+    "action": "Isolation Protocol Active",
+    "contact": "+91 9876543210"
+  },
+  {
+    "date": "2026-03-24",
+    "block": "Block 2",
+    "floor": "3",
+    "room": "301D",
+    "student_id": "ST2026045",
+    "student_name": "Rohan Das",
+    "condition": "High Fever, Nausea",
+    "temperature": "101.5°F",
+    "action": "Investigating",
+    "contact": "+91 9998887776"
+  }
+]

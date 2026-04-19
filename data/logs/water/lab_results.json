@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2026-03-24",
+    "block": "Block 1",
+    "tds_value": 150,
+    "ph_level": 7.2,
+    "bacteria_count": "0 CFU/ml",
+    "verdict": "Potable",
+    "auditor": "Campus Env. Office",
+    "last_cleaned": "2026-03-21"
+  },
+  {
+    "date": "2026-03-23",
+    "block": "Block 6",
+    "tds_value": 210,
+    "ph_level": 7.4,
+    "bacteria_count": "0.1 CFU/ml",
+    "verdict": "Safe",
+    "auditor": "Campus Env. Office",
+    "last_cleaned": "2026-03-19"
+  }
+]
