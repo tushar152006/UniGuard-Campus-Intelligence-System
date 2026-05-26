@@ -3,112 +3,32 @@
     "date": "2026-03-26",
     "block": "Block 4",
     "indicator": "Asthma",
-    "summary": "Student with Asthma experiencing breathing issues due to high pollen count.",
+    "summary": "One student reported breathing difficulty after outdoor exposure.",
     "is_crisis": false,
-    "official_verdict": "N/A"
+    "official_verdict": "Campus medical staff handled the case. No outbreak indicated."
   },
   {
     "date": "2026-03-26",
     "block": "Block 3",
-    "indicator": "Infection",
-    "summary": "Student showing symptoms of viral conjunctivitis.",
+    "indicator": "Eye Infection",
+    "summary": "A student reported eye irritation symptoms and was advised to reduce contact.",
     "is_crisis": false,
-    "official_verdict": "Practice social distancing"
-  },
-  {
-    "date": "2026-03-26",
-    "block": "Block 1",
-    "indicator": "Fever",
-    "summary": "Student showing symptoms of viral fever. Further tests may be required.",
-    "is_crisis": false,
-    "official_verdict": "N/A"
-  },
-  {
-    "date": "2026-03-26",
-    "block": "Block 2",
-    "indicator": "Allergy",
-    "summary": "Student showing signs of possible dust allergy.",
-    "is_crisis": false,
-    "official_verdict": "N/A"
-  },
-  {
-    "date": "2026-03-26",
-    "block": "Block 4",
-    "indicator": "Sports Injury",
-    "summary": "Student reported ankle sprain due to sports activity.",
-    "is_crisis": false,
-    "official_verdict": "N/A"
-  },
-  {
-    "date": "2026-03-25",
-    "block": "Block 2",
-    "indicator": "General Health",
-    "summary": "Student reports headache and fatigue related to stress. Advised to rest.",
-    "is_crisis": false,
-    "official_verdict": "N/A"
+    "official_verdict": "Monitor symptoms, but there is no confirmed outbreak."
   },
   {
     "date": "2026-03-25",
     "block": "Block 1",
-    "indicator": "Food Poisoning",
-    "summary": "Several students showing symptoms indicative of food poisoning.",
+    "indicator": "Food Safety",
+    "summary": "A student reported stomach discomfort after a meal. Mess hygiene was reviewed.",
     "is_crisis": false,
-    "official_verdict": "Mess hygiene is being checked. Take necessary precautions."
+    "official_verdict": "No broader emergency detected. Preventive checks are in progress."
   },
   {
-    "date": "2026-03-25",
-    "block": "Block 3",
-    "indicator": "Rash/Fever",
-    "summary": "Student showing rash and mild fever symptoms. Under observation, measles ruled out.",
-    "is_crisis": false,
-    "official_verdict": "No cause for alarm. Under observation."
-  },
-  {
-    "date": "2026-03-25",
-    "block": "Block 2",
-    "indicator": "Headache/Fatigue",
-    "summary": "Student reported headache and fatigue.",
-    "is_crisis": false,
-    "official_verdict": "Advised rest."
-  },
-  {
-    "date": "2026-03-25",
-    "block": "Block 1",
-    "indicator": "Food Poisoning",
-    "summary": "Student experienced stomach ache, nausea, and diarrhea.",
-    "is_crisis": false,
-    "official_verdict": "Possible food poisoning; mess hygiene being checked."
-  },
-  {
-    "date": "2026-03-25",
-    "block": "Block 3",
-    "indicator": "Rash/Fever",
-    "summary": "Student showing rash and mild fever.",
-    "is_crisis": false,
-    "official_verdict": "Observation in progress. Not measles."
-  },
-  {
-    "date": "2026-03-25",
-    "block": "Block 3",
-    "indicator": "Health Alert",
-    "summary": "A student from Block 3 presented with a severe rash and mild fever, possibly an allergic reaction. Precautions are being taken.",
-    "is_crisis": false,
-    "official_verdict": "No official outbreak, just a single allergy case. Students should not panic about measles or chicken pox rumors."
-  },
-  {
-    "date": "2024-03-24",
-    "block": "Block 1",
-    "indicator": "Health Alert",
-    "summary": "3 cases of viral symptoms reported. Routine isolation protocols in place.",
-    "is_crisis": false,
-    "official_verdict": "Students are advised to wear masks in common areas and report any fever early. No cause for panic."
-  },
-  {
-    "date": "2024-03-23",
+    "date": "2026-03-24",
     "block": "Block 6",
-    "indicator": "Mess Quality",
-    "summary": "Water filtration maintenance completed.",
+    "indicator": "Water Quality",
+    "summary": "Routine water quality checks were completed for a hostel block.",
     "is_crisis": false,
-    "official_verdict": "Water quality test results came back 'Safe'. The rumors about contaminated supply are false."
+    "official_verdict": "Water quality readings are safe."
   }
 ]
